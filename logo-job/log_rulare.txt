@@ -1,0 +1,319 @@
+317 branduri fara logo, cu site oficial
+[1/317] OK 405 Deaf Bonce (img)
+[2/317] OK 406 JL Audio (svg-inline)
+[3/317] nimic 407 Rainbow
+[4/317] OK 408 Aura (img)
+[5/317] nimic 409 Stetsom
+[6/317] OK 410 Match (img)
+[7/317] OK 414 StarLine (img)
+[8/317] EROARE 423 Protect: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ss
+[9/317] OK 476 Brp (img)
+[10/317] EROARE 479 Exide: HTTP Error 403: Forbidden
+[11/317] OK 480 Bridgestone (icon)
+[12/317] OK 481 Ctek (img)
+[13/317] OK 483 Lemania Energy (img)
+[14/317] OK 484 Telwin (img)
+[15/317] OK 485 Defa (img)
+[16/317] EROARE 494 Yuasa: HTTP Error 403: Forbidden
+[17/317] OK 496 Optima (icon)
+[18/317] EROARE 497 Oe M.A.N.: HTTP Error 403: Forbidden
+[19/317] nimic 500 Oe Iveco
+[20/317] OK 502 Noco (svg-inline)
+[21/317] EROARE 504 Oe Peugeot: HTTP Error 403: Forbidden
+[22/317] OK 506 Lamiro (img)
+[23/317] EROARE 507 Oe Fiat: HTTP Error 403: Forbidden
+[24/317] OK 508 Oe Renault (svg-inline)
+[25/317] OK 509 Lewanda (img)
+[26/317] OK 511 Herth+Buss Parti Electrice (img)
+[27/317] OK 513 Dragon Winch (img)
+[28/317] OK 514 Launch (img)
+[29/317] OK 515 Midtronics (img)
+[30/317] OK 517 Barum (img)
+[31/317] OK 518 Apollo (img)
+[32/317] OK 519 Bf Goodrich (img)
+[33/317] OK 521 Dębica (img)
+[34/317] OK 522 Fulda (img)
+[35/317] nimic 523 Diamondback
+[36/317] OK 524 Firestone (img)
+[37/317] OK 525 Dunlop Anvelope (img)
+[38/317] OK 526 Goodyear (img)
+[39/317] OK 528 Kleber Opony (img)
+[40/317] OK 529 Hankook (img)
+[41/317] OK 530 Kumho (img)
+[42/317] EROARE 531 Kelly: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certi
+[43/317] OK 532 Ling Long (img)
+[44/317] OK 533 Maxxis (img)
+[45/317] OK 535 Orium (img)
+[46/317] OK 536 Semperit (img)
+[47/317] OK 537 Pirelli (img)
+[48/317] EROARE 538 Sunfull: <urlopen error timed out>
+[49/317] OK 539 Nokian (img)
+[50/317] OK 540 Nexen (img)
+[51/317] OK 541 Sava (img)
+[52/317] EROARE 542 Ovation: HTTP Error 520: <none>
+[53/317] nimic 543 Trazano
+[54/317] OK 544 Tigar (img)
+[55/317] OK 545 Yokohama (img)
+[56/317] OK 546 Vredestein (img)
+[57/317] OK 547 Uniroyal (img)
+[58/317] OK 550 Aral (img)
+[59/317] OK 551 Bp Polska Sp.Z O.O. (img)
+[60/317] OK 552 Castrol Professional (img)
+[61/317] OK 557 Lotos (img)
+[62/317] EROARE 561 Oe Opel: HTTP Error 403: Forbidden
+[63/317] EROARE 562 Oe Mercedes: HTTP Error 403: Forbidden
+[64/317] OK 563 Oe Toyota (icon)
+[65/317] EROARE 564 Oe Bmw: The read operation timed out
+[66/317] OK 565 Oe Yamaha (img)
+[67/317] nimic 566 Oe Ford
+[68/317] OK 567 Oe Vw (svg-inline)
+[69/317] nimic 568 Oe John Deere
+[70/317] OK 569 Oe Nissan (img)
+[71/317] EROARE 574 Rwj: <urlopen error [Errno -2] Name or service not known>
+[72/317] OK 577 Rock Oil (img)
+[73/317] OK 579 Texaco (img)
+[74/317] EROARE 581 Blade: The read operation timed out
+[75/317] EROARE 583 Wanda: HTTP Error 403: Forbidden
+[76/317] OK 584 Kmc (img)
+[77/317] nimic 586 Total-mk
+[78/317] nimic 587 Decakila
+[79/317] OK 588 Gospopro (img)
+[80/317] OK 589 AgriChem (img)
+[81/317] OK 590 Vaco (img)
+[82/317] OK 593 Urban Dog (img)
+[83/317] OK 594 Tropiclean (img)
+[84/317] OK 596 Beauty Case Luxury (img)
+[85/317] OK 597 Pess (img)
+[86/317] OK 598 Flamingo (img)
+[87/317] OK 599 Biotur Pet (img)
+[88/317] OK 600 Biozoo (img)
+[89/317] OK 601 Beaphar (img)
+[90/317] OK 602 Kerbl Pet (img)
+[91/317] OK 604 N Mol (icon)
+[92/317] OK 607 Papillon (img)
+[93/317] OK 608 Hushpet (img)
+[94/317] OK 609 Affex (img)
+[95/317] nimic 612 Oscan
+[96/317] OK 613 Normalia (img)
+[97/317] OK 614 Pet Naturals (img)
+[98/317] nimic 615 Hyaloral
+[99/317] EROARE 616 Rokus: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certi
+[100/317] OK 617 Hobbit (img)
+[101/317] OK 618 Prolife (img)
+[102/317] OK 621 Elmubas (img)
+[103/317] OK 622 Tropical (img)
+[104/317] OK 623 Newa (img)
+[105/317] nimic 624 Leecom
+[106/317] OK 625 Nestor (img)
+[107/317] nimic 626 Ola
+[108/317] OK 631 Very Cat (img)
+[109/317] OK 632 Borealis (img)
+[110/317] OK 634 Stoeckel (img)
+[111/317] OK 635 Revolution by Hendi (img)
+[112/317] OK 636 Tecnoeka (img)
+[113/317] OK 637 SousVide Tools (img)
+[114/317] OK 638 Maxima (img)
+[115/317] OK 639 ARKTIC by Hendi (img)
+[116/317] OK 640 Amerbox (img)
+[117/317] OK 641 Hendi_old (img)
+[118/317] nimic 642 Master Frost
+[119/317] EROARE 643 Cosy & Trendy: <urlopen error [Errno 111] Connection refused>
+[120/317] OK 644 RATIONAL (svg-inline)
+[121/317] OK 645 Fine Dine (img)
+[122/317] OK 646 TRAMONTINA (img)
+[123/317] OK 649 Ekoplon (img)
+[124/317] OK 653 Jorgen Kruuse (img)
+[125/317] OK 655 Umarex (img)
+[126/317] OK 656 Rovensa (img)
+[127/317] OK 657 Purmo (img)
+[128/317] EROARE 658 Raid: HTTP Error 429: Too Many Requests
+[129/317] OK 661 Farmec (icon)
+[130/317] OK 663 Bolisi (img)
+[131/317] OK 664 Refil (img)
+[132/317] OK 666 MSA (img)
+[133/317] OK 668 Hobby (img)
+[134/317] EROARE 669 Dermoscent: HTTP Error 404: Not Found
+[135/317] OK 670 Josera Petfood (img)
+[136/317] OK 671 Tommi (img)
+[137/317] OK 672 MPS Italia (img)
+[138/317] OK 673 Wahl (img)
+[139/317] EROARE 674 Hill's Pet Nutrition: HTTP Error 403: Forbidden
+[140/317] OK 675 Lily's Kitchen (img)
+[141/317] OK 676 Diamond Pet Foods (img)
+[142/317] OK 677 Kraftia (img)
+[143/317] OK 678 Grandorf (img)
+[144/317] OK 679 VetPlus International (svg-inline)
+[145/317] OK 681 Soudal (img)
+[146/317] OK 687 Fondital (img)
+[147/317] OK 688 Fertillia (img)
+[148/317] OK 689 UPONOR (svg-inline)
+[149/317] EROARE 690 IVAR: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+[150/317] EROARE 692 Atlas: HTTP Error 403: Forbidden
+[151/317] OK 694 sammic (img)
+[152/317] OK 695 BarUp (img)
+[153/317] OK 696 amerbox_old (img)
+[154/317] OK 698 Armosa (icon)
+[155/317] OK 699 Orma (img)
+[156/317] OK 702 ESCHENBACH (img)
+[157/317] OK 705 L. Gobbi (img)
+[158/317] OK 706 Lumbreco (img)
+[159/317] nimic 715 Steril-4
+[160/317] OK 717 Schell (img)
+[161/317] OK 719 Comisa (img)
+[162/317] OK 720 Afriso (img)
+[163/317] OK 722 Bison (img)
+[164/317] OK 725 Vitaline (img)
+[165/317] OK 726 Coda (img)
+[166/317] OK 727 Hazera (img)
+[167/317] EROARE 728 Seminis: HTTP Error 403: Forbidden
+[168/317] EROARE 729 Rijk Zwaan: HTTP Error 403: Forbidden
+[169/317] EROARE 730 Pop Vriend: <urlopen error timed out>
+[170/317] OK 731 Pieterpikzonen (img)
+[171/317] OK 732 4 Agro (img)
+[172/317] OK 733 Enza Zaden (img)
+[173/317] OK 734 Bejo (img)
+[174/317] OK 735 Ciproma (img)
+[175/317] OK 736 Van Waveren (img)
+[176/317] OK 739 Kekkila (img)
+[177/317] OK 740 Vilmorin (img)
+[178/317] OK 741 ZF Parts (img)
+[179/317] EROARE 742 Stoller: HTTP Error 404: Not Found
+[180/317] OK 744 EvoSanitary Standard (img)
+[181/317] OK 745 EvoSanitary Plus (img)
+[182/317] OK 746 EvoTools Standard (img)
+[183/317] OK 747 EvoSanitary Professional (img)
+[184/317] OK 748 Edalife (img)
+[185/317] OK 749 EvoTools Plus (img)
+[186/317] OK 750 EvoTools Professional (img)
+[187/317] OK 751 L.A.T Nitrogen (img)
+[188/317] OK 752 Bar Up (img)
+[189/317] OK 753 Barmatic (img)
+[190/317] OK 754 Ove (img)
+[191/317] OK 755 Cambro (img)
+[192/317] OK 757 Fomet (img)
+[193/317] OK 758 Valagro (img)
+[194/317] OK 760 Ellen (icon)
+[195/317] OK 761 Griffon (svg-inline)
+[196/317] OK 764 Dupli-Color (img)
+[197/317] OK 765 Oregon (img)
+[198/317] EROARE 766 Arcansas: <urlopen error timed out>
+[199/317] OK 767 Spokar (img)
+[200/317] OK 768 Homevo (img)
+[201/317] OK 771 Happyone (icon)
+[202/317] OK 773 Evonik (img)
+[203/317] OK 774 Trelleborg (img)
+[204/317] OK 775 Index (img)
+[205/317] EROARE 779 Colormark: <urlopen error timed out>
+[206/317] EROARE 780 Distein: HTTP Error 500: Internal Server Error
+[207/317] OK 781 Colormatic (img)
+[208/317] OK 782 Fly Color (img)
+[209/317] EROARE 785 Metal Work: <urlopen error timed out>
+[210/317] EROARE 788 Saint-Gobain: HTTP Error 403: Forbidden
+[211/317] OK 792 Instar (img)
+[212/317] OK 793 Dekton (img)
+[213/317] OK 794 Aquacraft (img)
+[214/317] OK 795 Rr Italia (img)
+[215/317] OK 796 Innbio (img)
+[216/317] OK 797 Camp (img)
+[217/317] nimic 798 Alpha Spirit
+[218/317] OK 800 Kapro (img)
+[219/317] OK 802 Mellerud (img)
+[220/317] OK 803 Blue Wonder (img)
+[221/317] OK 804 Air Roxy (img)
+[222/317] OK 805 Uhu (svg-inline)
+[223/317] OK 810 Autosol (img)
+[224/317] OK 811 Wunder-Baum (img)
+[225/317] OK 812 Vitex (img)
+[226/317] OK 813 Shaldan (icon)
+[227/317] OK 815 Inchem Polonia (img)
+[228/317] OK 816 Hermes (img)
+[229/317] OK 817 Master Lock (img)
+[230/317] OK 818 Briochin (img)
+[231/317] OK 819 TESY (img)
+[232/317] OK 820 LAV (img)
+[233/317] OK 822 Indigo (img)
+[234/317] OK 825 Daymsa (img)
+[235/317] OK 826 Compo Expert (img)
+[236/317] OK 827 Hamilton Beach Commercial (img)
+[237/317] OK 829 Fertico (img)
+[238/317] OK 832 UNMACO (svg-inline)
+[239/317] OK 834 Hendi Smart (img)
+[240/317] OK 840 KUZA (img)
+[241/317] OK 842 Bistrivet (img)
+[242/317] EROARE 843 Rodex: The read operation timed out
+[243/317] OK 844 Klaus (img)
+[244/317] OK 845 Anura (img)
+[245/317] OK 848 Akfix (img)
+[246/317] nimic 849 Remond
+[247/317] OK 853 Salus (img)
+[248/317] OK 855 Kynita (img)
+[249/317] OK 857 ICB PHARMA (img)
+[250/317] OK 858 Andermatt (img)
+[251/317] OK 859 Florovit (img)
+[252/317] OK 860 General Servexim (img)
+[253/317] OK 868 Sparco Teamwork (icon)
+[254/317] OK 870 Duel (img)
+[255/317] OK 872 AgriMino (img)
+[256/317] OK 876 HP (img)
+[257/317] OK 877 Braun (svg-inline)
+[258/317] OK 878 ASUS (img)
+[259/317] EROARE 879 Gorenje: HTTP Error 403: Forbidden
+[260/317] EROARE 882 Micul Fermier: HTTP Error 403: Forbidden
+[261/317] OK 888 Symbio (img)
+[262/317] OK 890 Hamilton Beach (img)
+[263/317] OK 891 Biochem (img)
+[264/317] OK 894 Adriatica (img)
+[265/317] OK 895 Belor (img)
+[266/317] OK 897 Asfertglobal (img)
+[267/317] OK 901 Fox Knives (svg-inline)
+[268/317] OK 902 Viper (img)
+[269/317] OK 905 Ratimor (img)
+[270/317] OK 906 Kenda Farben (icon)
+[271/317] OK 912 Clayton (img)
+[272/317] OK 913 Pestila (img)
+[273/317] EROARE 916 KitchenAid: HTTP Error 403: Forbidden
+[274/317] OK 919 Daewoo (img)
+[275/317] OK 920 Crown (img)
+[276/317] OK 925 LAV HORECA (img)
+[277/317] OK 956 Monolith (img)
+[278/317] OK 957 CanadianSolar (img)
+[279/317] OK 959 Intervet MSD (img)
+[280/317] OK 960 Vetagro (img)
+[281/317] OK 962 Norbrook (img)
+[282/317] OK 963 Veyx (img)
+[283/317] nimic 964 Provet
+[284/317] OK 965 Maravet Vet (img)
+[285/317] OK 967 Maravet Pet (img)
+[286/317] OK 968 Brit Care (img)
+[287/317] OK 969 Nederma (img)
+[288/317] nimic 970 Chevita
+[289/317] OK 971 Maravet Identificare Animale (img)
+[290/317] OK 973 Bioveta (img)
+[291/317] OK 977 Antibiotice Iasi (img)
+[292/317] EROARE 978 LeVet: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake fail
+[293/317] nimic 981 Boehringer Ingelheim
+[294/317] OK 982 Phylaxia Pharmarom (img)
+[295/317] EROARE 983 Vetoquinol: HTTP Error 403: Forbidden
+[296/317] OK 986 Richter Pharma (img)
+[297/317] OK 989 Alpha Vet (img)
+[298/317] nimic 991 Versele-Laga
+[299/317] OK 992 Uab Ruvera (img)
+[300/317] OK 993 Terra Plast Trade (img)
+[301/317] nimic 994 Elanco Animal Health
+[302/317] OK 995 Interchemie (img)
+[303/317] OK 996 Bela-Pharm (img)
+[304/317] OK 997 Mobile Vet SRL (img)
+[305/317] OK 998 AgroComplex (img)
+[306/317] nimic 999 Schils BV
+[307/317] OK 1001 Dechra (img)
+[308/317] OK 1002 Dr. Pol (img)
+[309/317] nimic 1003 Mijten
+[310/317] EROARE 1005 Chanelle: <urlopen error [Errno -2] Name or service not known>
+[311/317] OK 1017 Versafix (icon)
+[312/317] OK 1018 Loredo (img)
+[313/317] OK 1020 Antonio Almeida (img)
+[314/317] OK 1022 Enoitalia (img)
+[315/317] OK 1023 Deriton (img)
+[316/317] EROARE 1224 Xevel: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+[317/317] OK 1259 Porland (img)
+Gata. Vezi logouri_site\raport.txt

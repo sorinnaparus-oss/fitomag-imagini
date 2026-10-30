@@ -1,0 +1,317 @@
+405	Deaf Bonce	OK	img	https://deafbonce.com/static/img/deafbonce-new13.png
+406	JL Audio	OK	svg-inline	https://WWW.garmin.com/en-US/c/jlaudio/
+407	Rainbow	NIMIC		https://www.rainbowagro.com
+408	Aura	OK	img	https://en.aurael.ru/wp-content/uploads/AURA_SE_2018-2-420x166.png
+409	Stetsom	NIMIC		https://stetsom.com.br/en/
+410	Match	OK	img	https://www.audiotec-fischer.de/themes/Frontend/Atf/frontend/_public/src/img/logos/audiotec-fischer.svg
+414	StarLine	OK	img	https://starline-parts.com/wp-content/themes/starline2016/images/header-logo.png
+423	Protect	EROARE		https://www.babolna-bio.hu	<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>
+476	Brp	OK	img	https://www.brp.com/content/dam/global/logos/brands/BRP-Digital_and_Campaign_Logo-K-RGB.svg
+479	Exide	EROARE		https://www.exidegroup.com/eu/en	HTTP Error 403: Forbidden
+480	Bridgestone	OK	icon	https://www.bridgestone.com/etc/images/favicons/bridgestone-152.png
+481	Ctek	OK	img	https://ctek.com/cdn/shop/files/CTEK.logo.png?v=1764620700&width=800
+483	Lemania Energy	OK	img	https://lemania-energy.com/wp-content/uploads/2024/03/LOGO-17.png
+484	Telwin	OK	img	https://www.telwin.com/_default_upload_bucket/logo-telwin.svg
+485	Defa	OK	img	https://www.defa.com/content/themes/defa-legacy-theme/src/images/defa-logo.svg
+494	Yuasa	EROARE		https://www.yuasa.com/uk/	HTTP Error 403: Forbidden
+496	Optima	OK	icon	https://www.optimabatteries.com/sfsites/c/cms/delivery/media/MCZDE4FRSDMFFK3MNJEOZBFDVIRI?width=180&height=180
+497	Oe M.A.N.	EROARE		https://www.mantruckandbus.com	HTTP Error 403: Forbidden
+500	Oe Iveco	NIMIC		https://www.iveco.com/global/redirect
+502	Noco	OK	svg-inline	https://no.co
+504	Oe Peugeot	EROARE		https://www.peugeot.com	HTTP Error 403: Forbidden
+506	Lamiro	OK	img	https://lamiro24.com/modules/roy_customizer/upload/logo-normal-1.png
+507	Oe Fiat	EROARE		https://www.fiat.com	HTTP Error 403: Forbidden
+508	Oe Renault	OK	svg-inline	https://www.renaultgroup.com
+509	Lewanda	OK	img	https://lewanda.pl/logo.gif
+511	Herth+Buss Parti Electrice	OK	img	https://herthundbuss.com/wp-content/uploads/2023/05/HB-Logo.svg
+513	Dragon Winch	OK	img	https://www.dragonwinch.com/gfx/1473061813.4275.png
+514	Launch	OK	img	https://en.cnlaunch.com/u_file/fileUpload/2022-04/08/2022040827691.png
+515	Midtronics	OK	img	https://www.midtronics.com/wp-content/uploads/2019/04/Logo-1.png
+517	Barum	OK	img	https://www.barum-tyres.com/content/experience-fragments/conti-secondline-brands/barum/ww/en/site/header/master/_jcr_content/root/header/logo.coreimg.svg/1729773509507/logo-header.svg
+518	Apollo	OK	img	https://corporate.apollotyres.com/content/dam/orbit/apollo-corporate/brand-identity/atl-logo_transparent_208x80_textonly.png
+519	Bf Goodrich	OK	img	https://www.bfgoodrich.com/images/bfg-logo.svg
+521	Dębica	OK	img	https://www.debica.com.pl/res/images/logo.png
+522	Fulda	OK	img	https://www.fulda.com/content/dam/fulda/consumer/common/fulda-banner-528576.png
+523	Diamondback	NIMIC		https://www.diamondback-tire.com/
+524	Firestone	OK	img	https://www.firestone.eu/content/dam/website/bandag-firestone/firestone/logo/F-Shield.png
+525	Dunlop Anvelope	OK	img	https://www.dunlop.com/assets/img/common/logo.svg
+526	Goodyear	OK	img	https://www.goodyear.com/_next/static/media/primary-dark-brand-logo.2bpgmlh3ffhwu.svg
+528	Kleber Opony	OK	img	https://adzktgbqdq.cloudimg.io/https://dgaddcosprod.blob.core.windows.net/cxf-multisite/jq655ylgrnkid1tou7t5s90c/attachments/ougmul457cp6fdbrlk5fvb76-logo-kleber.full.png
+529	Hankook	OK	img	https://asset.hankooktire.com/content/dam/hankooktire/local/img/main/main-key-visual/pc/logo.svg
+530	Kumho	OK	img	https://kumhotireusa.com/kumho-logo.png
+531	Kelly	EROARE		https://www.kellytires.com	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>
+532	Ling Long	OK	img	https://www.linglongtire.com/uploads/3484fafd6f5162fd9746c6fd86fcca2c.png
+533	Maxxis	OK	img	https://maxxis-europe.com/_assets/948219b84ac217fb46ae87a6ee43cb7e/Icons/maxxis-logo.svg
+535	Orium	OK	img	https://dgaddcosprod.blob.core.windows.net/assembly-a3/clui1h7x715b401nj1bsc8n87/attachments/clumr966h0tlq01na1klc3miw-orium-logo-rgb-1.one-third.png
+536	Semperit	OK	img	https://www.semperit.com/content/experience-fragments/conti-secondline-brands/semperit/ro/ro/site/header/master/_jcr_content/root/header/logo.coreimg.svg/1683634552700/logo-header.svg
+537	Pirelli	OK	img	https://binaries.pirelli.com/common/logo-pirelli2x.jpg
+538	Sunfull	EROARE		http://www.sunfulltires.com/	<urlopen error timed out>
+539	Nokian	OK	img	https://nokiantyres.studio.crasman.cloud/pub/System/styleguide-examples/brand-hero-image.jpg?c=system_x1080
+540	Nexen	OK	img	https://www.nexentire.com/international/assets/images/common/logo.png
+541	Sava	OK	img	https://www.sava-tires.com/content/dam/sava/consumer/common/sava-banner.png
+542	Ovation	EROARE		http://www.ovationtires.com/	HTTP Error 520: <none>
+543	Trazano	NIMIC		http://www.zc-rubber.com/
+544	Tigar	OK	img	https://dgaddcosprod.blob.core.windows.net/assembly-a3/clx2tw9cr2y7401mz9xcy7z7g/attachments/clxa52l560e4901l355u180lo-3-ppt-taurus-point8-sales-pitch-en-1-3x.one-third.png
+545	Yokohama	OK	img	https://www.y-yokohama.com/images/rn-logo.png
+546	Vredestein	OK	img	https://www.vredestein.com/content/dam/orbit/logos/brand-logo-light-default@3x.png
+547	Uniroyal	OK	img	https://www.uniroyal-tyres.com/content/experience-fragments/conti-secondline-brands/uniroyal/ww/en/site/header/master/_jcr_content/root/header/logo.coreimg.svg/1680250860097/logo-header.svg
+550	Aral	OK	img	https://www.aral.de/apps/settings/wcm/designs/refresh/aral/images/aral-responsive.png
+551	Bp Polska Sp.Z O.O.	OK	img	https://www.bp.com/apps/settings/wcm/designs/refresh/bp/images/navigation/bp-logo.svg
+552	Castrol Professional	OK	img	https://www.castrol.com/apps/settings/wcm/designs/refresh/castrol/images/reignite/logo.svg
+557	Lotos	OK	img	https://www.lotos.pl/public/images/logo_lotos.svg
+561	Oe Opel	EROARE		https://www.opel.com	HTTP Error 403: Forbidden
+562	Oe Mercedes	EROARE		https://www.mercedes-benz.com	HTTP Error 403: Forbidden
+563	Oe Toyota	OK	icon	https://global.toyota/apple-touch-icon-precomposed.png
+564	Oe Bmw	EROARE		https://www.bmwgroup.com	The read operation timed out
+565	Oe Yamaha	OK	img	https://global.yamaha-motor.com/img/logo_revs.png
+566	Oe Ford	NIMIC		https://www.ford.ro
+567	Oe Vw	OK	svg-inline	https://www.volkswagen.de/de.html
+568	Oe John Deere	NIMIC		https://www.deere.com/en-us/
+569	Oe Nissan	OK	img	https://www.nissan-global.com/library/assets/img/hd_logo.svg
+574	Rwj	EROARE		https://www.rwj.com.pl/en/	<urlopen error [Errno -2] Name or service not known>
+577	Rock Oil	OK	img	https://rockoil.co.uk/wp-content/uploads/2025/10/rock-oil-logo-r.svg
+579	Texaco	OK	img	https://www.texacolubricants.com/content/dam/external/texaco/en_uk/2022-updates/New_texaco-lubricants-logo.png
+581	Blade	EROARE		https://www.blademotors.ro	The read operation timed out
+583	Wanda	EROARE		https://wandatyre.cn/	HTTP Error 403: Forbidden
+584	Kmc	OK	img	https://www.kmcchain.com/img/logo-top.png
+586	Total-mk	NIMIC		https://www.totalbusiness.com/
+587	Decakila	NIMIC		https://www.decakila.com/
+588	Gospopro	OK	img	https://cdn.contentspeed.ro/slir/h60/blademotors100.websales.ro/cs-content//cs-skins/cs_lider/custom/logo-image_1710408437.png.webp
+589	AgriChem	OK	img	https://www.agrichem.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png
+590	Vaco	OK	img	https://vaco-retail.pl/images/logotypy/logo-vaco.svg
+593	Urban Dog	OK	img	https://images.cdn-files-a.com/uploads/5994815/400_filter_nobg_6218c31b8b513.png
+594	Tropiclean	OK	img	https://tropiclean.com/cdn/shop/files/buzzfeed-logo.svg?v=1781451467&width=200
+596	Beauty Case Luxury	OK	img	https://www.beautycase.pet/wp-content/uploads/2022/11/logo_beautyCasePet.png
+597	Pess	OK	img	https://pess.eu/wp-content/uploads/2019/11/pess_logo_jasne_m2-1.png
+598	Flamingo	OK	img	https://www.flamingo.be/theme/b5dcd39a15604c5f9284d222d3119963/assets/images/logo-white.svg?1790058663
+599	Biotur Pet	OK	img	https://biotur.ro/wp-content/uploads/2021/07/logo-biotur-340x156-2-300x138.png
+600	Biozoo	OK	img	https://shop.biozoo.com/cdn/shop/files/biozoo.jpg?v=1732093567&width=600
+601	Beaphar	OK	img	https://www.beaphar.com/_nuxt/img/logo.317a307.svg
+602	Kerbl Pet	OK	img	https://kerbl.pet/wp-content/uploads/2024/03/kerbl-pet-logo-darkgrey.png
+604	N Mol	OK	icon	https://molhardware.com/wp-content/uploads/2025/10/cropped-thumbnail_image001-192x192.jpg
+607	Papillon	OK	img	https://www.papillonpetproducts.com/_clientfiles/Layout/logo/logo_papillon.png
+608	Hushpet	OK	img	https://www.yiyipad.com/uploads/202132982/logo202109231325524358503.png
+609	Affex	OK	img	https://www.zoodiaco.com/themes/zoodiaco/images/logo/zoodiaco.png
+612	Oscan	NIMIC		https://pharmadiet.com
+613	Normalia	OK	img	https://www.innovet.it/wp-content/themes/innovet/assets/img/header/logo_innovet_bordo_30anni.svg
+614	Pet Naturals	OK	img	https://www.petnaturals.com/media/logo/stores/13/logo-png-v3.png
+615	Hyaloral	NIMIC		https://www.pharmadiet.com/
+616	Rokus	EROARE		https://www.dehaanpetfood.com/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>
+617	Hobbit	OK	img	https://hobbitalf.com/cdn/shop/files/2Logo_1.svg?height=40&v=1759340366
+618	Prolife	OK	img	https://www.prolife-pet.it/themes/prolife-pet/images/logo/prolife-pet.png
+621	Elmubas	OK	img	https://elmubas.com/wp-content/uploads/2026/05/logo-elmubas-nuevo-horizontal.png
+622	Tropical	OK	img	https://tropical.pl/upload/image/org/x1547630231904788_346872.png.pagespeed.ic.pn5FVz3z44.webp
+623	Newa	OK	img	https://www.newa.it/wp-content/uploads/2018/06/logo-newa-head.png
+624	Leecom	NIMIC		http://www.leecom.cn/index.html
+625	Nestor	OK	img	https://www.nestor.com.pl/img/logo.png
+626	Ola	NIMIC		https://agromarket.bg/
+631	Very Cat	OK	img	https://elmubas.com/wp-content/uploads/2026/05/logo-elmubas-nuevo-horizontal.png
+632	Borealis	OK	img	https://www.borealisgroup.com/web/icons/inline/logo-borealis.svg
+634	Stoeckel	OK	img	https://www.stoeckel-soehne.de/media/af/2a/f8/1782977872/stoeckel-logo-blau.png?ts=1782977872
+635	Revolution by Hendi	OK	img	https://hendi.com/logo.png
+636	Tecnoeka	OK	img	https://www.tecnoeka.com/images/logo-big-header.png
+637	SousVide Tools	OK	img	https://www.sousvidetools.com/media/logo/stores/1/SVT-Logo-R-Web.png
+638	Maxima	OK	img	https://maxima.com/static/version20261029141318/frontend/Vendic/maxima-hyva/en_GB/images/logo.svg
+639	ARKTIC by Hendi	OK	img	https://www.hendi.eu/static/version1793091392/frontend/Xsarus/xsa-hfs/en_GB/images/hendi-food-service.svg
+640	Amerbox	OK	img	https://amerbox.com/files/ban/banner-big-2-en.webp?ts=1728032039
+641	Hendi_old	OK	img	https://www.hendi.eu/static/version1793091392/frontend/Xsarus/xsa-hfs/nl_NL/images/hendi-food-service.svg
+642	Master Frost	NIMIC		https://masterfrostice.gr/__browser-challenge?token=1c5fdf211361f46f82afd56101e34221
+643	Cosy & Trendy	EROARE		https://www.cosy-trendy.eu	<urlopen error [Errno 111] Connection refused>
+644	RATIONAL	OK	svg-inline	https://www.rational-online.com/en_us/home/
+645	Fine Dine	OK	img	https://finedine.pl/template/default/images/logo.svg?ts=1765177463
+646	TRAMONTINA	OK	img	https://prd-assets-portal.tramontina.com/Tramontina_logo_91451b3262.svg
+649	Ekoplon	OK	img	https://www.ekoplon.pl/extensions/theme/ekoplon/app/images/xlogo-scrolled.png.pagespeed.ic.IYQJFaN0Hq.webp
+653	Jorgen Kruuse	OK	img	https://shop-api.kruuse.com//medias/KRUUSE-SVG-LOGO.svg?context=bWFzdGVyfGltYWdlc3wxOTU2fGltYWdlL3N2Zyt4bWx8YUdJMUwyaGtaUzg1TVRjMU56QTBNamN5T1RJMkwwdFNWVlZUUlY5VFZrZGZURTlIVHk1emRtY3xmY2NlOTNlZjE5MWZjN2YyNWYyOTA5MzkxNTczZTg5OGQyOWYxYzkyNjg5NzhlM2M0NjQ3MTlhNTlmMGQ5NWMz
+655	Umarex	OK	img	https://www.umarex.com/assets/images/umarex_logo_red.png
+656	Rovensa	OK	img	https://www.rovensa.com/app/uploads/2025/05/Layer_1.svg
+657	Purmo	OK	img	https://www.purmogroup.com/wp-content/uploads/2021/10/Purmo_Group_Logo.svg
+658	Raid	EROARE		https://www.raid.com	HTTP Error 429: Too Many Requests
+661	Farmec	OK	icon	https://www.farmec.ro/media/favicon/icons/icon_ios_120x120.png
+663	Bolisi	OK	img	http://en.szbolisi.com/style/img/theme-1/logo.png
+664	Refil	OK	img	https://www.refil.cz/wp-content/uploads/2021/06/cropped-logo-refil.jpg
+666	MSA	OK	img	https://www.msasafety.com/images/MSA-Logo-2.png
+668	Hobby	OK	img	https://hobby.bydgoszcz.pl/wp-content/uploads/2023/04/hobby-logo.png
+669	Dermoscent	EROARE		https://www.dermoscent.com	HTTP Error 404: Not Found
+670	Josera Petfood	OK	img	https://www.josera.de/static/version1793084366/frontend/Josera/pronominalSalutation/de_DE/images/logo.svg
+671	Tommi	OK	img	https://4b18dd94bb.clvaw-cdnwnd.com/88fff7f169860fb3bcef2244ec02e2a1/200000159-afddeafde0/AFP%20fialova.png?ph=4b18dd94bb
+672	MPS Italia	OK	img	https://mpsitalia.it/wp-content/uploads/2022/03/Logo_MPS.png
+673	Wahl	OK	img	https://eu.wahl.com/static/version1793316753/frontend/Vaimo/OneWahl/en_US/images/logo.svg
+674	Hill's Pet Nutrition	EROARE		https://www.hillspet.com	HTTP Error 403: Forbidden
+675	Lily's Kitchen	OK	img	https://www.lilyskitchen.co.uk/cdn/shop/files/logo_1.svg?v=1738848600&width=165
+676	Diamond Pet Foods	OK	img	https://www.diamondpet.com/wp-content/uploads/2019/01/Diamond-Logo_rev-1.png
+677	Kraftia	OK	img	https://kraftiapet.com/wp-content/uploads/2025/08/Kraftia-logo-black.png
+678	Grandorf	OK	img	https://grandorf.eu/local/templates/.default/img/grandorf-logo-swiper.svg
+679	VetPlus International	OK	svg-inline	https://vetplusglobal.com/
+681	Soudal	OK	img	https://www.soudal.com/themes/custom/dropsolid-base-8/logo.svg
+687	Fondital	OK	img	https://www.fondital.com/img/logo_fondital.svg
+688	Fertillia	OK	img	https://fertillia.ro/wp-content/uploads/2021/08/Logo-Fertillia.png
+689	UPONOR	OK	svg-inline	https://www.uponor.com/en-us
+690	IVAR	EROARE		https://www.ivar-group.com	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>
+692	Atlas	EROARE		https://agrii.ro/	HTTP Error 403: Forbidden
+694	sammic	OK	img	https://sammic.com/assets/logo-sammic-115px.png
+695	BarUp	OK	img	https://www.hendi.eu/static/version1793091392/frontend/Xsarus/xsa-hfs/en_GB/images/hendi-food-service.svg
+696	amerbox_old	OK	img	https://amerbox.com/files/ban/banner-big-2-en.webp?ts=1728032039
+698	Armosa	OK	icon	https://www.armosa.eu/Instances/Front/Corporate/Images/favicons/apple-icon-57x57.png
+699	Orma	OK	img	https://ormatorino.com/wp-content/uploads/2025/10/logo-orma.png
+702	ESCHENBACH	OK	img	https://www.eschenbach-optik.com/wp-content/themes/eschenbach/assets/images/logo.png
+705	L. Gobbi	OK	img	https://www.lgobbi.it/wp-content/uploads/2020/08/logo.png
+706	Lumbreco	OK	img	https://lumbreco.bg/_astro/pkip-logo.BwgQRC0F_Z1MjsuN.webp
+715	Steril-4	NIMIC		https://www.steril-c.it/
+717	Schell	OK	img	https://www.schell.eu/typo3temp/assets/_processed_/f/5/csm_schell-armaturen_logo_b9b8951fc6.png.pagespeed.ce.UEVorcnkCf.png
+719	Comisa	OK	img	https://www.comisa.it/wp-content/uploads/2021/09/logo-comisa@2x.png
+720	Afriso	OK	img	https://www.afriso.com/var/site/storage/original/image/b5c95dff37db6c2a28b1e6a38cdc146d.svg
+722	Bison	OK	img	https://www.bolton.com/sites/default/files/styles/medium/public/2024-10/Bison.png?itok=Tl8g1Vws
+725	Vitaline	OK	img	https://farmavet.ro/images/logo.svg
+726	Coda	OK	img	https://www.sas-agri.com/content/uploads/2017/04/logotipo-positivo-sas.x52329.png
+727	Hazera	OK	img	https://www.hazera.com/wp-content/uploads/sites/27/2023/07/Logo-2-1.png
+728	Seminis	EROARE		https://www.vegetables.bayer.com/	HTTP Error 403: Forbidden
+729	Rijk Zwaan	EROARE		https://www.rijkzwaan.com	HTTP Error 403: Forbidden
+730	Pop Vriend	EROARE		https://www.popvriendseeds.com	<urlopen error timed out>
+731	Pieterpikzonen	OK	img	https://cdn.prod.website-files.com/69b2aa9c2c1d5d8abe06e9e5/69b9163c61cab1f09855d295_pp-logo.svg
+732	4 Agro	OK	img	https://patruagro.ro/wp-content/themes/agro/images/4agro_logo.png
+733	Enza Zaden	OK	img	https://www.enzazaden.com/images/logo-enzazaden.svg
+734	Bejo	OK	img	https://www.bejo.com/sites/bejo-drupal/files/Bejo-LG_1_0.svg
+735	Ciproma	OK	img	https://ciproma.ro/wp-content/themes/cipromaa/img/logo.png
+736	Van Waveren	OK	img	https://vanwaveren.de/wp-content/uploads/2025/11/vwaveren-logo-short-color-RGB.png
+739	Kekkila	OK	img	https://www.kekkila-bvb.com/wp-content/themes/everblox/assets/kekkilabvb/img/logo-light-128.png
+740	Vilmorin	OK	img	https://www.vilmorinmikado.com/sites/default/files/styles/wide/public/block_image/logo_vilmorin_mikado.png?itok=Gmo73-h4
+741	ZF Parts	OK	img	https://aftermarket.zf.com/media/poland/zfa_img_pc_product_range_transmission_oil_change_kit_0000x0000px_c_myk_201908_bs_11_xl_6.jpg?v=2065125543
+742	Stoller	EROARE		https://www.stolleragro.com	HTTP Error 404: Not Found
+744	EvoSanitary Standard	OK	img	https://evotools.ro/assets/img/logo.png
+745	EvoSanitary Plus	OK	img	https://evotools.ro/assets/img/logo.png
+746	EvoTools Standard	OK	img	https://evotools.ro/assets/img/logo.png
+747	EvoSanitary Professional	OK	img	https://evotools.ro/assets/img/logo.png
+748	Edalife	OK	img	https://www.edalife.es/wp-content/themes/edalife/assets/images/comun/logo.png
+749	EvoTools Plus	OK	img	https://evotools.ro/assets/img/logo.png
+750	EvoTools Professional	OK	img	https://evotools.ro/assets/img/logo.png
+751	L.A.T Nitrogen	OK	img	https://www.lat-nitrogen.com/images/frontend/borealis-logo-for-mobile.png
+752	Bar Up	OK	img	https://www.hendi.eu/static/version1793091392/frontend/Xsarus/xsa-hfs/en_GB/images/hendi-food-service.svg
+753	Barmatic	OK	img	https://barmatic.eu/files/ban/banner-big-2-en.webp?ts=1728024723
+754	Ove	OK	img	https://ovecutlery.com/files/ban/banner-big-2-en.webp?ts=1728281867
+755	Cambro	OK	img	https://cambro.widen.net/content/9vzqbcol3i/webp/75th%20Cambro%20logo%20one%20line.webp?w=176&h=90&crop=false&q=80
+757	Fomet	OK	img	https://fomet.it/wp-content/uploads/2026/02/Logo-Fomet.svg
+758	Valagro	OK	img	https://www.syngenta.com/themes/custom/themekit/logo.svg
+760	Ellen	OK	icon	https://www.elton.nl/assets/img/touch-icon.png
+761	Griffon	OK	svg-inline	https://www.griffon.eu/en-en
+764	Dupli-Color	OK	img	https://duplicolor.eu/assets/img/dc/logo.svg
+765	Oregon	OK	img	https://www.oregontool.com/wp-content/uploads/2025/11/oregontool-white.svg
+766	Arcansas	EROARE		https://www.arcansas.com	<urlopen error timed out>
+767	Spokar	OK	img	https://www.spokar.com/wp-content/uploads/design-award.png
+768	Homevo	OK	img	https://www.homevo.ro/wp-content/uploads/2025/07/cropped-logo-homevo-vectorial332-125x62.png
+771	Happyone	OK	icon	https://happyone.pt/images/default/favicon/apple-icon-57x57.png
+773	Evonik	OK	img	https://s7g10.scene7.com/is/image/evonik/podd-logo?layer=0&src=is{evonik/podd-logo%3A16-9-Medium}&layer=0&originN=0.5,0.5
+774	Trelleborg	OK	img	https://www.trelleborg.com/-/media/foundation/trelleborg/icons/logo.svg?rev=4af2759a373e4ea3b17d1ea6773365b3&extension=webp&hash=15A7E0BA1FDC77A022188F6B79020962
+775	Index	OK	img	https://www.indexfix.com/wp-content/uploads/logo-index.svg
+779	Colormark	EROARE		https://www.motipdupli.com/en/INT/products/colormark.html	<urlopen error timed out>
+780	Distein	EROARE		https://www.service.european-aerosols.com/en/INT/products/more/distein.html	HTTP Error 500: Internal Server Error
+781	Colormatic	OK	img	https://www.european-aerosols.com/assets/img/ea/logo.svg
+782	Fly Color	OK	img	https://duplicolor.eu/assets/img/dc/logo.svg
+785	Metal Work	EROARE		http://www.metalwork.ro/	<urlopen error timed out>
+788	Saint-Gobain	EROARE		https://www.saint-gobain.com	HTTP Error 403: Forbidden
+792	Instar	OK	img	https://instar.net.pl/wp-content/uploads/2024/11/logo-instar.jpg
+793	Dekton	OK	img	https://dekton-tools.com/app/themes/dekton/public/images/amazon-logo.3fbaad.png
+794	Aquacraft	OK	img	https://www.aquacraftgarden.com/resources/_img/layout/logo.svg
+795	Rr Italia	OK	img	https://www.rritalia.com/wp-content/uploads/2025/10/Spiral_AL_nt.webp
+796	Innbio	OK	img	http://innbio.eu/innbioeu/layout/frontend/img/logo.png
+797	Camp	OK	img	https://campitalia.it/cdn/shop/files/camp-powertowork_160x.svg?v=1706170430
+798	Alpha Spirit	NIMIC		https://www.aspiritpetfood.com
+800	Kapro	OK	img	https://kapro.com/wp-content/uploads/2023/01/Kapro_logo_2022-RGB.png
+802	Mellerud	OK	img	https://mellerud.de/media/8e/00/87/1702899645/logo_mellerud_%2814%29.png?ts=1702899645
+803	Blue Wonder	OK	img	https://bluewonder.com/wp-content/uploads/blue_wonder_logo_2020_helder-1.png
+804	Air Roxy	OK	img	https://www.airroxy.com/wp-content/uploads/2021/07/airRoxy_logo-1-151x52.png
+805	Uhu	OK	svg-inline	https://www.uhu.com/en-en
+810	Autosol	OK	img	https://autosol.de/wp-content/uploads/2026/10/cropped-Logo-Autosol-2018-bg_schwarz-Print-scaled-1-180x109.png
+811	Wunder-Baum	OK	img	https://www.wunderbaum.com/themes/custom/littletrees/assets/i/logos/LTEU_BANNER_LOGO_UNDER_50MM.png
+812	Vitex	OK	img	https://www.vitex.gr/wp-content/uploads/2025/12/Vitex_Logo.png
+813	Shaldan	OK	icon	https://www.st-c.co.jp/english/assets/common/ico/apple-touch-icon-16x16.png
+815	Inchem Polonia	OK	img	https://www.inchem.pl/logo-kobalt.svg
+816	Hermes	OK	img	https://www.vitex.gr/wp-content/uploads/2025/12/Vitex_Logo.png
+817	Master Lock	OK	img	https://cdn.masterlock.com/masterlock/static/img/components/enhanced-brand/bg-m.jpg
+818	Briochin	OK	img	https://www.lebriochin.com/themes/briochin/assets/img/logo_briochin_white.svg
+819	TESY	OK	img	https://tesy.com/web/images/logo_180px.svg
+820	LAV	OK	img	https://www.lav.com.tr/cdn/shop/files/5f53ec40-121c-40e2-8aec-0682d98db9bc.jpg?v=1767594724&width=110
+822	Indigo	OK	img	https://www.indigoag.ro/hs-fs/hubfs/Indigo%20Logo%20_%20All%20Countries.png?width=250&height=80&name=Indigo%20Logo%20_%20All%20Countries.png
+825	Daymsa	OK	img	https://daymsa.com/wp-content/uploads/logoDaymsa.png
+826	Compo Expert	OK	img	https://compo-expert.com/themes/custom/compo/src/static/compo-expert-logo.svg
+827	Hamilton Beach Commercial	OK	img	https://hamiltonbeach.com/img/logolg.png
+829	Fertico	OK	img	https://fertico.rs/assets/logos/fertico_logo.webp
+832	UNMACO	OK	svg-inline	https://www.unmaco.it/
+834	Hendi Smart	OK	img	https://hendi.com/logo.png
+840	KUZA	OK	img	https://kuzatools.com/media/br0bwtrw/logo-kuza.svg
+842	Bistrivet	OK	img	https://c.cdnmp.net/844388752/logo.png?rv=1775033833
+843	Rodex	EROARE		https://web.rodexpower.com/	The read operation timed out
+844	Klaus	OK	img	https://www.klauselectric.com/assets/images/klaus.png
+845	Anura	OK	img	https://www.anuraelectric.com/Content/img/anura-logo.svg
+848	Akfix	OK	img	https://www.akfix.com/images/logo.svg
+849	Remond	NIMIC		https://www.remond.com.tr
+853	Salus	OK	img	https://saluscontrols.com/wp-content/uploads/2026/01/salus-control.png
+855	Kynita	OK	img	https://kynita.ro/wp-content/themes/depozit-catalog-light/assets/images/kynita-logo.png
+857	ICB PHARMA	OK	img	https://icbpharma.com/wp-content/uploads/2023/08/icbpharma-logo-grey.png
+858	Andermatt	OK	img	https://www.andermatt.com/wp-content/uploads/2021/10/logo.svg
+859	Florovit	OK	img	https://florovit.pl/theme/Florovit/images/introFlorovitLogo3.png
+860	General Servexim	OK	img	https://www.generalservexim.ro/wp-content/themes/generalserv/images/logo.png
+868	Sparco Teamwork	OK	icon	https://www.sparco-official.com/sparco-static/icons/ios180.png
+870	Duel	OK	img	https://beohemija.com/wp-content/uploads/2026/02/logo-beohemija.svg
+872	AgriMino	OK	img	https://agrimino.com/wp-content/uploads/2024/12/logo-wit.svg
+876	HP	OK	img	https://www.hp.com/content/dam/sites/worldwide/homepage/images/banners/hp-com-visid-2-0-hero-toolkit-badges@2x.jpg
+877	Braun	OK	svg-inline	https://www.braunhousehold.com/en-us
+878	ASUS	OK	img	https://www.asus.com/media/Odin/images/header/ROG_normal.svg
+879	Gorenje	EROARE		https://www.gorenje.com	HTTP Error 403: Forbidden
+882	Micul Fermier	EROARE		https://www.micul-fermier.ro/	HTTP Error 403: Forbidden
+888	Symbio	OK	img	https://symbio.co.uk/img/symbio_logo.png
+890	Hamilton Beach	OK	img	https://hamiltonbeach.com/img/logolg.png
+891	Biochem	OK	img	https://biochem.ro/wp-content/uploads/2019/07/Biochem-logo.png
+894	Adriatica	OK	img	https://k-adriatica.it/WebObjects/KAdriatica.woa/Contents/WebServerResources/assets/ui/logo-k-adriatica-intl-2x.png
+895	Belor	OK	img	https://belor.ro/wp-content/uploads/2023/11/Logo-Belor.png
+897	Asfertglobal	OK	img	https://www.asfertglobal.com/wp-content/uploads/2026/01/logo-asfertglobal-alt.png
+901	Fox Knives	OK	svg-inline	https://www.foxknives.com/en/
+902	Viper	OK	img	https://viper.it/wp-content/themes/viper/images/logo-dark.svg
+905	Ratimor	OK	img	https://ratimor-effect-pestcontrol.com/app/uploads/2019/08/logo_ratimor_rdec.png
+906	Kenda Farben	OK	icon	https://www.kendafarben.com/wp-content/uploads/2024/12/Favicon_1-144x144-1.jpg
+912	Clayton	OK	img	https://cdn.claytonpp.com/wp-content/uploads/2023/05/clayton-logo.png
+913	Pestila	OK	img	https://www.pestila.pl/wp-content/uploads/2023/05/cropped-logo-pestila@2x.png
+916	KitchenAid	EROARE		https://www.kitchenaid.com	HTTP Error 403: Forbidden
+919	Daewoo	OK	img	https://daewoo-power.com/local/templates/daewoopo_old/pub/img/logo.png
+920	Crown	OK	img	https://crown-tools.com/Themes/DWT-Green/Content/images/banner-dc_2020_back.png
+925	LAV HORECA	OK	img	https://www.lav.com.tr/cdn/shop/files/5f53ec40-121c-40e2-8aec-0682d98db9bc.jpg?v=1767594724&width=110
+956	Monolith	OK	img	https://plasmatec-weld.com.ua/assets/logo-b80b685d.png
+957	CanadianSolar	OK	img	https://www.canadiansolar.com/wp-content/uploads/2024/06/CS-LOGO-RED-RGB-NEW-2024-W-TAG-2.png
+959	Intervet MSD	OK	img	https://www.msd-animal-health.com/wp-content/uploads/sites/174/2025/12/MSD_tcm247-226478.png
+960	Vetagro	OK	img	https://www.vetagro.com/wp-content/uploads/2023/04/logo.png
+962	Norbrook	OK	img	https://www.norbrook.com/norbrook/images/svg/norbrook.svg
+963	Veyx	OK	img	https://www.veyx.com/fileadmin/config/_veyx/Resources/Public/Images/Veyx-Logo_schatten.png
+964	Provet	NIMIC		http://www.provet.gr
+965	Maravet Vet	OK	img	https://www.maravet.com/landingpage/img/logo_maravet.png
+967	Maravet Pet	OK	img	https://www.maravet.com/landingpage/img/logo_maravet.png
+968	Brit Care	OK	img	https://images.ctfassets.net/o738wv480887/5ZxZ0A05T4WDBsk78g3gaA/4d0914b55d87a72fe8144e7b78d2b375/Tagline.svg
+969	Nederma	OK	img	https://www.sanal.nl/files/logo-2.svg
+970	Chevita	NIMIC		http://www.chevita.com
+971	Maravet Identificare Animale	OK	img	https://www.maravet.com/landingpage/img/logo_maravet.png
+973	Bioveta	OK	img	https://www.bioveta.eu/img/logo.png
+977	Antibiotice Iasi	OK	img	https://www.antibiotice.ro/wp-content/themes/antibiotice/images/antibiotice-logo.png
+978	LeVet	EROARE		https://www.levetpharma.com/	<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>
+981	Boehringer Ingelheim	NIMIC		https://www.boehringer-ingelheim.com
+982	Phylaxia Pharmarom	OK	img	https://www.phylaxia-romania.ro/wp-content/themes/phylaxia/images/logo.png
+983	Vetoquinol	EROARE		https://www.vetoquinol.com/	HTTP Error 403: Forbidden
+986	Richter Pharma	OK	img	https://www.richter-pharma.com/assets/img/logo-richter-pharma.svg
+989	Alpha Vet	OK	img	https://www.alphavet.hu/wp-content/uploads/2023/04/av-logo-2024-hu-rgb-large.png
+991	Versele-Laga	NIMIC		https://www.versele.com/world/united-states
+992	Uab Ruvera	OK	img	https://ruvera.lt/wp-content/uploads/2022/03/cropped-cropped-Logo.png
+993	Terra Plast Trade	OK	img	https://terraplast.eu/wp-content/uploads/2018/06/logoterrap.png
+994	Elanco Animal Health	NIMIC		https://www.elanco.com/us
+995	Interchemie	OK	img	https://www.interchemie.com/custom/images/logo.png
+996	Bela-Pharm	OK	img	https://www.bela-pharm.com/fileadmin/templates/img_slider/trioxin_logo.png
+997	Mobile Vet SRL	OK	img	https://azovet.ro/wp-content/uploads/2023/08/logo-azovet-white-bg.svg
+998	AgroComplex	OK	img	https://agrocomplex.pl/wp-content/uploads/2021/10/logo.jpg
+999	Schils BV	NIMIC		https://www.schils.com/en/
+1001	Dechra	OK	img	https://www.dechra.com/Files/Templates/Designs/dechra-dvp/_assets/img/Dechra_logo.svg
+1002	Dr. Pol	OK	img	https://s37463.pcdn.co/wp-content/uploads/2020/10/DR_POL_LOGO_SECONDARY_Footer.png.webp
+1003	Mijten	NIMIC		https://www.mijten.be
+1005	Chanelle	EROARE		https://www.chanellepharma.com	<urlopen error [Errno -2] Name or service not known>
+1017	Versafix	OK	icon	https://www.filtrox.com/wp-content/uploads/2021/08/cropped-FX-Logo_RGB_0-74-153-192x192.jpg
+1018	Loredo	OK	img	https://loredo.ro/cdn/shop/files/loredologo.png?v=1742745547&width=210
+1020	Antonio Almeida	OK	img	https://www.aalmeida.pt/assets/images/logo.svg
+1022	Enoitalia	OK	img	https://www.enoitalia.net/wp-content/uploads/2021/02/LogoEnoitalia.png
+1023	Deriton	OK	img	https://deriton.com/wp-content/uploads/2020/11/deriton-kis-logo-2-szinnel.jpg
+1224	Xevel	EROARE		https://xevel.pl/en/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>
+1259	Porland	OK	img	https://67eeeb03.cdn.akinoncloud.com/static_omnishop/2026-10-22.2-prod/img/logo.jpg
